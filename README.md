@@ -3,7 +3,7 @@
 I am Edoardo, a passionate and self driven mathematics and cs student from Bocconi University. I'm extremely interested in algorithmics, theoretical computer science, machine learning research and ML development. 
 ---
 Relevant projects I contributed to:
-- one
+- RNA normoxia/hypoxia state AI framework (https://github.com/edoardopanella/ai-lab.git)
 - two
 ---
 
