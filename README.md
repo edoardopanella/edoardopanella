@@ -7,6 +7,7 @@ I am Edoardo, a passionate and self driven mathematics and cs student from Bocco
 Relevant projects I contributed to:
 - [RNA normoxia/hypoxia AI framework](https://github.com/edoardopanella/ai-lab.git): fully functioning and efficient AI framework that analyzes and cleans up RNA gene encoding data to predict wether the cell lives in a state of Normoxia or Hypoxia
 - [Ski Maps](https://github.com/Hephaestus-AI-Association/ski_maps.git): google maps-like software that predicts the shortest path between two points in a ski resort. This framework utilizes statistical learning techniques to predict multiple factors that affect the time needed to go from one place to another on the map; it then calculates the shortest path using a custom version of Dynamical Dijkstra algorithm for the shortest path in a graph
+- [Innosuisse Startupkicker smart startup data analysis tool](https://github.com/federicoscaffidi/hacking-innosuisse-startupticker): A NLP based intelligent search engine that generates personalized analysis on the trends of startups in Switzerland
 
 ---
 
