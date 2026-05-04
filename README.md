@@ -1,6 +1,6 @@
 ## Hello there!
 
-I am Edoardo, a passionate and self driven mathematics and cs student from Bocconi University. I'm extremely interested in algorithmics, theoretical computer science, machine learning research and ML development. 
+I’m Edoardo, a Mathematics and Computer Science student at Bocconi University, focused on theoretical machine learning and the foundations of intelligent systems, with a growing interest in neuromorphic intelligence.
 
 ---
 
