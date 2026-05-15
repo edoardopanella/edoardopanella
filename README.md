@@ -1,6 +1,6 @@
 ## Hello there!
 
-I’m Edoardo, a Mathematics and Computer Science student at Bocconi University, focused on theoretical machine learning and the foundations of intelligent systems, with a growing interest in neuromorphic intelligence.
+I’m Edoardo Panella, a Mathematics and Computer Science student at Bocconi University, focused on theoretical machine learning and the foundations of intelligent systems, with a growing interest in neuromorphic intelligence and representation learning.
 
 ---
 
