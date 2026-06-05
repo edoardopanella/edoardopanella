@@ -11,19 +11,17 @@ Relevant projects I contributed to:
 
 ---
 
-🌐 **Socials:**  
+**Socials:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-panella-73ba5a261/) [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:edoardopanella47@gmail.com)
 
 ---
 
-💻 **Tech Stack:**  
+**Tech Stack:**  
 
-**Core**  
+**ML / Data / Scientific**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)  
-
-**ML / Data / Scientific**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) 
