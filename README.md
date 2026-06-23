@@ -1,4 +1,4 @@
-## Hello there!
+# Hello there!
 
 I’m Edoardo Panella, a Mathematics and Computer Science student at Bocconi University and undergraduate researcher. My work is focused on theoretical machine learning and the foundations of intelligent systems, with a growing interest in neuromorphic intelligence and representation learning.
 
@@ -11,7 +11,7 @@ Relevant projects I contributed to:
 
 ---
 
-**Socials:**  
+## Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-panella-73ba5a261/) [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:edoardopanella47@gmail.com)
 
 ---
